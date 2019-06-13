@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = doersam
-	name = manfred
+	email = manfred.doersam@whu.edu
+	name = manfred doersam
